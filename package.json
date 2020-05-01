@@ -1,0 +1,23 @@
+{
+  "name": "nextbus",
+  "version": "1.0.0",
+  "description": "Display next buses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaurentAutebert/nextBus.git"
+  },
+  "keywords": [
+    "bus",
+    "time"
+  ],
+  "author": "L.Autebert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaurentAutebert/nextBus/issues"
+  },
+  "homepage": "https://github.com/LaurentAutebert/nextBus#readme"
+}
